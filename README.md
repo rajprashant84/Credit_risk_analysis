@@ -8,6 +8,7 @@ The Credit Risk Analysis project aims to build a machine learning model to predi
 ## Installation
 
 1. **Clone the repository**:
+```bash
 git clone https://github.com/rajprashant84/Credit_risk_analysis.git
 cd credit_risk_analysis
 
@@ -17,4 +18,10 @@ cd credit_risk_analysis
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-
+3. ** Install the required packages:
+```bash
+   pip install -r requirements.txt
+ 
+4. ** Install the required packages:
+```bash
+   python main.py
